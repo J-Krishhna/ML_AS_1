@@ -58,7 +58,7 @@ This project analyzes a housing dataset to identify missing features and examine
 - Correlation analysis highlights important predictors for pricing models
 - 
 
-## Scenario 3: Customer Personality Analysis
+## Scenario 4: Customer Personality Analysis
 This project analyzes customer demographic and spending data to understand customer behavior, detect missing information, and explore patterns useful for segmentation and decision-making.
 
 ### Dataset
